@@ -24,7 +24,7 @@
         android:textColor="@color/colorPrimaryDark"
         android:textSize="80sp"
         tools:layout_editor_absoluteX="115dp"
-        tools:layout_editor_absoluteY="150dp" />
+        tools:layout_editor_absoluteY="149dp" />
 
     <Button
         android:id="@+id/button"
