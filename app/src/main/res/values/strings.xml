@@ -13,4 +13,6 @@
     <string name="add_earnings">Add New Earnings</string>
     <string name="cat_update">Update Budget</string>
     <string name="head_new_receipt">New Receipt</string>
+    <string name="but_new_item">New Item</string>
+    <string name="but_new_cat">New Category</string>
 </resources>
