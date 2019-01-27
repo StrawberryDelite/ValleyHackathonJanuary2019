@@ -15,4 +15,8 @@
     <string name="head_new_receipt">New Receipt</string>
     <string name="but_new_item">New Item</string>
     <string name="but_new_cat">New Category</string>
+    <string name="nav_expenditures">View Expenditures</string>
+    <string name="nav_history">View Transaction History</string>
+    <string name="view_savings">View Savings</string>
+    <string name="view_budget">Set Budgets</string>
 </resources>

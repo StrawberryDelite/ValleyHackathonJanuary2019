@@ -3,21 +3,28 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
-    <item
-        android:id="@+id/nav_receipt"
-        android:title="@string/add_receipt" />
-    <item
-        android:id="@+id/nav_earnings"
-        android:title="@string/add_earnings" />
     <group android:id="@+id/cat">
         <item
-            android:id="@+id/cat_update"
-            android:title="@string/cat_update" />
-        <menu ></menu>
+            android:id="@+id/nav_receipt"
+            android:title="@string/add_receipt" />
+        <item
+            android:id="@+id/nav_earnings"
+            android:title="@string/add_earnings" />
     </group>
 
-    <item android:title="Communicate">
-        <menu/>
-    </item>
+    <group >
+        <item
+            android:id="@+id/nav_budget"
+            android:title="@string/view_budget" />
+        <item
+            android:id="@+id/nav_history"
+            android:title="@string/nav_history" />
+        <item
+            android:id="@+id/nav_savings"
+            android:title="@string/view_savings" />
+        <item
+            android:id="@+id/nav_expenditures"
+            android:title="@string/nav_expenditures" />
+    </group>
 
 </menu>
